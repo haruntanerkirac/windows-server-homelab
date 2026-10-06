@@ -1,6 +1,6 @@
-#Windows Server Homelab
+# Windows Server Homelab
 
-##Windows Server ortamında sistem yönetimi ve ağ servislerini uygulamalı olarak öğrenmek amacıyla oluşturduğum homelab projesi.
+## Windows Server ortamında sistem yönetimi ve ağ servislerini uygulamalı olarak öğrenmek amacıyla oluşturduğum homelab projesi.
 
 ## Ortam
 - Sanallaştırma: VMware Workstation
