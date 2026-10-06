@@ -2,14 +2,14 @@ Windows Server Homelab
 
 Windows Server ortamında sistem yönetimi ve ağ servislerini uygulamalı olarak öğrenmek amacıyla oluşturduğum homelab projesi.
 
-Ortam
+## Ortam
 Sanallaştırma: VMware Workstation
 Sunucu: Windows Server 2025
 İstemci: Windows 11
 Domain: techlab.local
 Ağ: 192.168.197.0/24
 
-Yapılan Çalışmalar
+## Yapılan Çalışmalar
 Active Directory Domain Services (AD DS)
 Domain kullanıcı yönetimi
 Organizational Unit (OU) yapısı
